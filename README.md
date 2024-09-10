@@ -1,7 +1,7 @@
 
 # Airline Reservation System
 
-The Airline Reservation System is a Java-based console application designed to simulate the core functionalities of an airline booking system. The project allows users to input their names, select flights, choose available seats, and generate a ticket with their reservation details. 
+The Airline Reservation System is a **Java-based** console application designed to simulate the core functionalities of an airline booking system. The project allows users to input their names, select flights, choose available seats, and generate a ticket with their reservation details. 
 
 Key features include:
 - Managing passenger information and flight schedules.
