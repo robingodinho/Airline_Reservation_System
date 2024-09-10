@@ -20,6 +20,8 @@ This project demonstrates object-oriented programming, robust error handling, an
 
 - ***Flight:*** The Flight class models a flight, including its flight number, departure date, available seats, and any other flight-specific details. It handles tasks like displaying available seats and managing reservations for a specific flight.
 
+- ***Ticket:*** Represents a booking confirmation for a passenger. It links the Passenger, Flight, and Seat classes together, and stores the details of the reservation, including the departure date and the seat assignment.
+
 - ***Database:*** The Database class acts as a central repository, storing and managing the application's data, including passengers, flights, seats, and tickets. It provides methods to add, retrieve, and manage this information, simulating the behavior of an actual database.
 
 
