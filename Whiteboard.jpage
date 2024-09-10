@@ -1,2 +1,0 @@
-Passenger cannot be resolved to a typePassenger cannot be resolved to a typePassenger passenger1 = new Passenger();
-System.out.println(passenger1);
