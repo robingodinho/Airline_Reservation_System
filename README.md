@@ -27,7 +27,6 @@ This project demonstrates object-oriented programming, robust error handling, an
 ## Demo
 
 ![Poster Image](https://github.com/robingodinho/Airline_Reservation_System/blob/323d2076d45d7d2d0afe7a92956fa6e2e64d24f2/example_image.png)
-
 ![Poster Image](https://github.com/robingodinho/Airline_Reservation_System/blob/a97d7e07ef87e9514591b25a0c79f2b259d11c70/Demo%20Screenshot.png)
 ## How To Download and Run the code
 
