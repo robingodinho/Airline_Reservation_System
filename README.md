@@ -36,7 +36,7 @@ This project demonstrates object-oriented programming, robust error handling, an
 
 To download the project, clone the repository to your local machine using the following command:
 
-git clone https://github.com/robingodinho/Airline_Reservation_System.git
+--git clone https://github.com/robingodinho/Airline_Reservation_System.git
 
 Alternatively, you can download the project as a ZIP file from GitHub and extract it.
 
